@@ -74,7 +74,7 @@ python scripts/captions/enhanced_captioning.py \
   ... and 10 more
 
 📊 Statistics:
-  Total images processed: 78
+  Total images processed: 100
   Images skipped (with text): 12
   Text filtering rate: 15.4%
 ```
